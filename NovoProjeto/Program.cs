@@ -31,7 +31,7 @@ namespace NovoProjeto
 
 
             //VERSÃO 2
-            /*
+            
             Pessoa pessoa2= new Pessoa();
             Console.WriteLine("Digite um nome: ");
             pessoa2.nome = Console.ReadLine();
@@ -56,7 +56,7 @@ namespace NovoProjeto
             Console.WriteLine("IMC: " + pessoa2.imc + "\n");
             Console.WriteLine("Idade: " + pessoa2.idade + "\n");
             Console.WriteLine("Número de letras do nome digitado: " + pessoa2.qtdString);
-            */
+            
             
 
             //VERSAO 3
